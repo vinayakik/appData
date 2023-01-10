@@ -1,0 +1,44 @@
+[
+    {
+        "item_id": 1,
+        "name": "Men Watches",
+        "collection_id": 1,
+        "img_url": "https://staticimg.titan.co.in/Titan/Banners/home/shopByCategory/essentials_titan-men.webp"
+    },
+    {
+        "item_id": 2,
+        "name": "Women Watches",
+        "collection_id": 2,
+        "img_url": "https://staticimg.titan.co.in/Titan/Banners/home/shopByCategory/essentials_titan-women.webp"
+    },
+    {
+        "item_id": 3,
+        "name": "Couple Watches",
+        "collection_id": 4,
+        "img_url": "https://www.titan.co.in/shop/couple-watches?cm_sp=Homepage-_-essentials-_-couplewatches"
+    },
+    {
+        "item_id": 4,
+        "name": "Kid Watches",
+        "collection_id": 5,
+        "img_url": "https://staticimg.titan.co.in/Titan/Banners/home/shopByCategory/essentials_titan-kids.webp"
+    },
+    {
+        "item_id": 5,
+        "name": "Personalised",
+        "collection_id": 1,
+        "img_url": "https://staticimg.titan.co.in/Titan/Banners/home/shopByCategory/essentials_titan-personalize.webp"
+    },
+    {
+        "item_id": 6,
+        "name": "Face Masks",
+        "collection_id": 404,
+        "img_url": "https://staticimg.titan.co.in/Titan/Banners/home/shopByCategory/essential_mask.webp"
+    },
+    {
+        "item_id": 7,
+        "name": "Wallets",
+        "collection_id": 404,
+        "img_url": "https://staticimg.titan.co.in/Titan/Banners/home/shopByCategory/essentials_titan-wallet.webp"
+    }
+]

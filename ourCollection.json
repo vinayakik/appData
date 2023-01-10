@@ -1,0 +1,23 @@
+[
+    {
+        "watch_id":1,
+        "watch_name":"Slimmest Watches",
+        "collection_id":"Men"
+    },
+    {
+        "watch_id":2,
+        "watch_name":"Titan Grand Master",
+        "collection_id":"Men"
+    },
+    {
+        "watch_id":3,
+        "watch_name":"Regalia",
+        "collection_id":"Men"
+    },
+    {
+        "watch_id":4,
+        "watch_name":"Maritime",
+        "collection_id":"Men"
+    }
+
+]
